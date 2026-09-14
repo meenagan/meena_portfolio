@@ -9,7 +9,7 @@
     "typecheck:libs": "tsc --build",
     "typecheck": "pnpm run typecheck:libs && pnpm -r --filter \"./artifacts/**\" --filter \"./scripts\" --if-present run typecheck",
     "predeploy": "pnpm --filter portfolio run build",
-    "deploy": "gh-pages -d artifacts/portfolio/dist"
+    "deploy": "gh-pages -d artifacts/portfolio/dist/public"
   },
   "private": true,
   "devDependencies": {
