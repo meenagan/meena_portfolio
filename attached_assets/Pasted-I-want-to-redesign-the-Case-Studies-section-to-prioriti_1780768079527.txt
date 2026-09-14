@@ -1,0 +1,65 @@
+I want to redesign the Case Studies section to prioritize recruiter scanning and mobile usability.
+
+Currently, every case study displays the full Challenge, Approach, Actions, Results, and Key Learning directly on the homepage. This creates excessive scrolling, especially on mobile, and makes it difficult for recruiters to quickly assess my work.
+
+Instead, I want a two-level experience:
+
+LEVEL 1: CASE STUDY PREVIEW (Homepage)
+
+Each case study should appear as a compact card containing:
+
+* Title
+* One-sentence summary/subheader
+* 3-4 key highlights or outcomes
+* Relevant category tag (Market Creation, Customer Education & Adoption, Product Adoption, Revenue Acceleration)
+* Optional thumbnail/image
+* CTA button: "Dive Deeper" or "View Full Case Study"
+
+The card should be visually similar to the project cards on Rabia Ahmed's portfolio:
+https://www.rabiaahmed.me/
+
+The goal is that a recruiter can scan all case studies in under 30 seconds without excessive scrolling.
+
+Example card structure:
+
+Secure RAG: Building Trust in Enterprise AI
+
+Defined Box AI's Secure RAG positioning and architecture narrative to accelerate trust, activation, and enterprise AI adoption.
+
+Highlights:
+• Created foundational Secure RAG positioning
+• Developed customer-facing architecture whitepaper
+• Reduced friction in enterprise AI evaluations
+• Supported AI activation and strategic deals
+
+[View Full Case Study →]
+
+---
+
+LEVEL 2: DEDICATED CASE STUDY PAGE
+
+Clicking "View Full Case Study" should open a dedicated page or modal containing:
+
+* Hero image
+* Challenge
+* Approach
+* Actions
+* Results
+* Key Learning
+* Supporting assets
+* Videos
+* Whitepapers
+* Links
+
+This is where all detailed content should live.
+
+---
+
+MOBILE REQUIREMENTS
+
+* Homepage should remain lightweight
+* Users should never need to scroll through multiple long-form case studies
+* Cards should stack cleanly on mobile
+* Full details should only appear after selecting a case study
+
+The homepage should function as a portfolio overview, while the dedicated pages should function as detailed case studies.

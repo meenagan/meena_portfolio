@@ -1,0 +1,72 @@
+Speaking Engagements & Industry Panels
+
+Sub-header
+
+Sharing insights on AI, product strategy, enterprise innovation, and leadership through industry conferences, executive webinars, and community events.
+
+Optional Intro Paragraph
+
+Over the past several years, I've been invited to moderate executive discussions, host industry webinars, serve as a competition judge, and participate in panels alongside leaders from Google Cloud, OpenAI, Meta, SAP, and other technology organizations. My speaking engagements focus on agentic AI, enterprise adoption, responsible innovation, leadership, and the future of work.
+
+Card 1
+Leaders in AI
+
+Moderator & Host | Women in Technology at Box | October 2025
+
+Moderated an executive panel featuring senior AI leaders from OpenAI, Meta, and Box, focused on scaling AI teams, responsible innovation, career growth, and the future of AI leadership. As Global Co-Chair of Women in Technology at Box, I hosted a candid discussion on the intersection of technology, leadership, mentorship, and impact.
+
+Highlights
+
+Moderated executive-level discussion
+Responsible AI and AI governance
+Leadership and career growth in AI
+Women leading AI innovation
+Card 2
+Agentic RAG-a-thon
+
+Panelist & Judge | May 2025
+
+Represented Box on the main-stage panel alongside leaders from SAP, Arize AI, and Toolhouse to discuss what it takes to move AI agents from prototypes to enterprise-ready solutions. Shared Box's perspective on governance, explainability, security, and deploying AI agents within content-rich enterprise workflows.
+
+Highlights
+
+Enterprise AI adoption
+Agentic AI product strategy
+Governance and explainability
+Judged 49+ AI projects across 222 developers
+Card 3
+2025 AI Trends Webinar
+
+Host & Moderator | Featuring Google Cloud and Box Executives
+
+Hosted an executive webinar featuring leaders from Google Cloud and Box exploring emerging AI trends, enterprise implementation strategies, AI governance, and industry-specific applications across life sciences, financial services, and the public sector.
+
+Highlights
+
+Enterprise AI strategy
+AI adoption and transformation
+Industry-specific use cases
+Security and governance best practices
+Card 4
+Aragon Research Women in Technology Panel
+
+Invited Panelist | September 2024
+
+Joined industry leaders from Five9 and Avaya to discuss how AI is transforming communication, collaboration, and customer engagement. The discussion explored responsible AI implementation, human-AI collaboration, and the role of women in shaping the future of AI-powered communications.
+
+Highlights
+
+AI-driven communications
+Human-AI collaboration
+Responsible AI
+Women in technology leadership
+One thing I'd add that most PMM portfolios miss
+
+Add a small metrics strip above the cards:
+
+Speaking Impact
+
+4+ Industry Panels & Webinars
+Moderator, Host, Panelist & Judge
+Featured alongside leaders from Google Cloud, OpenAI, Meta, SAP, Avaya & Five9
+Topics spanning Agentic AI, Enterprise AI, Governance, Product Strategy & Leadership

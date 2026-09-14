@@ -1,0 +1,57 @@
+Secure RAG: Building Trust in Enterprise AI
+
+Sub-header
+Defined Box AI’s Secure RAG positioning and created a customer-facing architecture narrative to help security leaders and administrators understand how enterprise AI works, accelerating trust, activation, and sales conversations.
+
+Challenge
+
+Enterprise buyers needed clarity on how Box AI handled data, permissions, and security, which created friction in sales cycles and slowed AI activation.
+
+Approach
+
+Partnered with Product and Architecture to translate Box AI’s technical design into a simple, trust-first narrative centered on Secure RAG.
+
+Actions
+Defined Secure RAG positioning and messaging framework
+Authored customer-facing whitepaper and narrative
+Created architecture flow in partnership with Product and Lead Architect
+Aligned Sales, Product, and Exec teams on unified AI trust story
+Enabled field teams with a reusable technical explainer
+Results
+Became a high-demand internal and customer-facing AI asset
+Reduced friction in security and architecture conversations
+Increased confidence among admins and enterprise buyers
+Supported AI activation and enterprise deal progression
+Recognized by executive leadership for driving initiative end-to-end
+Key Learning
+
+AI adoption in the enterprise is fundamentally a trust problem—clear, simple architecture storytelling is often as important as the underlying product capabilities.
+
+2. Box AI Units: Launch & Monetization Strategy
+
+Sub-header
+Led GTM strategy for Box AI Units, defining positioning and adoption narrative to help customers understand and measure AI value across usage and business workflows.
+
+Challenge
+
+Customers struggled to understand how to measure and control AI value, especially in enterprise environments where usage didn’t map cleanly to traditional pricing models.
+
+Approach
+
+Developed GTM positioning that connected AI usage to meaningful business outcomes through a structured consumption model.
+
+Actions
+Led GTM strategy for Box AI Units launch
+Defined positioning and messaging across buyer personas
+Partnered with Product and Sales on pricing narrative
+Built customer education and enablement materials
+Supported enterprise deal conversations with usage framing
+Results
+Improved customer understanding of AI value measurement
+Strengthened enterprise adoption conversations
+Reduced friction in pricing and packaging discussions
+Supported expansion into Enterprise Advanced tier opportunities
+Established clearer link between AI usage and business outcomes
+Key Learning
+
+AI monetization requires translating usage into perceived business value—customers adopt faster when pricing reflects how they experience work, not just system activity.

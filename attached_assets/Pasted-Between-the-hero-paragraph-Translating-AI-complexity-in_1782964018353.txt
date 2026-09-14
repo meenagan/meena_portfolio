@@ -1,0 +1,13 @@
+Between the hero paragraph ("Translating AI complexity into business reality...") and the metrics strip (500K+ Explainer Views, etc.), add two quote cards stacked vertically, centered on the page, max-width 640px, 16px gap between them. Each card has a distinct style reflecting its source.
+CARD 1 — Internal award nomination style:
+White background, 1px solid light gray border (#E0E0E0), border-radius 8px, padding 20px 24px, very subtle box-shadow (0 1px 4px rgba(0,0,0,0.06)). Left accent bar 3–4px solid in a warm muted gold or amber tone (something like #C9922A or similar — to evoke a recognition/award feeling, distinct from the LinkedIn blue). Inside the card: quote text in Instrument Serif italic, 16px, dark charcoal, line-height 1.6, ending with ellipsis (...). Below a thin light gray internal divider: attribution in small Inter medium 13px — name line reads "Account Executive, Box Enterprise" in dark color, title line below in muted gray reads "Peer nomination — 'Blow Your Customers' Minds' Award".
+CARD 2 — LinkedIn recommendation style:
+White background, 1px solid light gray border (#E0E0E0), border-radius 8px, padding 20px 24px, very subtle box-shadow (0 1px 4px rgba(0,0,0,0.06)). Left accent bar 3–4px solid in LinkedIn blue (#0A66C2). Inside the card: quote text in Inter regular, 15px, dark charcoal, line-height 1.6, ending with ellipsis (...). Below a thin light gray internal divider: attribution in small Inter medium 13px — name reads "Jonathan Phillips" in dark color, title below in muted gray reads "Marketing Leader, Salesforce — via LinkedIn". Optionally add a small LinkedIn logo icon (the "in" square icon, 14px, in #0A66C2) inline next to the "via LinkedIn" attribution text.
+Quote text for Card 1:
+"This deal wouldn't have crossed the line without her..."
+Quote text for Card 2:
+"She initiated new methods that generated significant increases in leads and pipeline..."
+Directly below both cards, centered anchor text link in the site's existing accent color, Inter regular 14px:
+"Read the full nominations and recommendations →"
+Smooth-scrolls to the section with anchor ID "in-their-words". No button styling — inline text link only, understated.
+No animations. The two cards should feel visually distinct but tonally consistent — one warm and recognitory, one professional and peer-validated. Both clean and confident.

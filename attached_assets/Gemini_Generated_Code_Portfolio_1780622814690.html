@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meena Ganesh | Senior AI Product Marketing Manager</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- FontAwesome for Enterprise Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Premium Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        heading: ['Plus Jakarta Sans', 'sans-serif'],
+                    },
+                    colors: {
+                        brand: {
+                            dark: '#070A13',
+                            card: '#111827',
+                            accent: '#00F2FE', 
+                            purple: '#8B5CF6', 
+                            textMuted: '#9CA3AF'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .glass-panel {
+            background: rgba(17, 24, 39, 0.7);
+            backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.07);
+        }
+        .funnel-layer {
+            clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 15% 100%);
+        }
+        .funnel-layer-inner {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .funnel-layer-inner:hover {
+            background: rgba(31, 41, 55, 0.9);
+            box-shadow: 0 0 30px rgba(0, 242, 254, 0.15);
+        }
+    </style>
+</head>
+<body class="bg-brand-dark text-slate-100 font-sans antialiased">
+
+    <!-- Navigation -->
+    <nav class="fixed top-0 w-full z-50 glass-panel border-b border-slate-900">
+        <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+            <a href="#" class="font-heading font-bold text-lg tracking-wider text-white">
+                MEENA GANESH <span class="text-brand-accent text-xs font-light block tracking-widest uppercase">AI GTM LEADER</span>
+            </a>
+            <div class="hidden md:flex space-x-8 text-xs font-semibold tracking-wider uppercase text-slate-300">
+                <a href="#about" class="hover:text-brand-accent transition-colors">About</a>
+                <a href="#funnel-visualization" class="hover:text-brand-accent transition-colors">The PMM Funnel</a>
+                <a href="#case-studies" class="hover:text-brand-accent transition-colors">Case Studies</a>
+                <a href="#executive" class="hover:text-brand-accent transition-colors">Influence</a>
+                <a href="#essays" class="hover:text-brand-accent transition-colors">Insights</a>
+            </div>
+            <a href="#funnel-visualization" class="px-5 py-2.5 rounded-md bg-slate-900 text-xs font-bold tracking-wider uppercase border border-slate-800 hover:border-brand-accent transition-all text-slate-200">
+                Explore Framework
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="pt-40 pb-24 relative overflow-hidden px-6">
+        <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-brand-accent/5 rounded-full blur-[140px] pointer-events-none"></div>
+        <div class="absolute top-1/3 right-1/4 w-96 h-96 bg-brand-purple/5 rounded-full blur-[140px] pointer-events-none"></div>
+
+        <div class="max-w-5xl mx-auto text-center relative z-10">
+            <span class="px-4 py-1.5 rounded-full text-[10px] font-bold tracking-widest uppercase bg-brand-purple/10 text-brand-purple border border-brand-purple/20 inline-block mb-6">
+                Executive PMM Portfolio
+            </span>
+            <h1 class="font-heading text-5xl md:text-7xl font-extrabold tracking-tight text-white mb-4 leading-none">
+                Meena Ganesh
+            </h1>
+            <p class="font-heading text-xl md:text-2xl font-medium text-brand-accent mb-8 tracking-wide">
+                Senior Product Marketing Manager, AI at Box
+            </p>
+            <p class="text-base md:text-lg text-brand-textMuted max-w-3xl mx-auto mb-12 font-light leading-relaxed">
+                Bringing enterprise AI products from concept to customer adoption through market positioning, monetization strategy, thought leadership, and executive storytelling.
+            </p>
+            
+            <!-- Impact Highlights -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto mt-16 p-6 rounded-xl glass-panel text-left">
+                <div class="p-4">
+                    <p class="text-[10px] font-bold uppercase tracking-widest text-brand-textMuted mb-1">Explainer Views</p>
+                    <p class="text-3xl font-extrabold text-brand-accent font-heading">500K+</p>
+                </div>
+                <div class="p-4 border-l border-slate-800/60">
+                    <p class="text-[10px] font-bold uppercase tracking-widest text-brand-textMuted mb-1">AI Certification</p>
+                    <p class="text-3xl font-extrabold text-white font-heading">~90%</p>
+                    <span class="text-[10px] text-slate-400 font-light block">Participation Rate</span>
+                </div>
+                <div class="p-4 border-l border-slate-800/60">
+                    <p class="text-[10px] font-bold uppercase tracking-widest text-brand-textMuted mb-1">Monetization Strategy</p>
+                    <p class="text-3xl font-extrabold text-brand-purple font-heading">AI Units</p>
+                </div>
+                <div class="p-4 border-l border-slate-800/60">
+                    <p class="text-[10px] font-bold uppercase tracking-widest text-brand-textMuted mb-1">Executive Recognition</p>
+                    <p class="text-3xl font-extrabold text-white font-heading">$271K</p>
+                    <span class="text-[10px] text-slate-400 font-light block">TAV Award Recipient</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="py-20 bg-slate-950/40 border-y border-slate-900 px-6">
+        <div class="max-w-5xl mx-auto">
+            <div class="grid md:grid-cols-3 gap-12 items-start">
+                <div class="md:col-span-1">
+                    <h2 class="font-heading text-xs font-bold tracking-widest text-brand-accent uppercase mb-3">About Me</h2>
+                    <h3 class="font-heading text-2xl font-bold text-white leading-tight">Building the bridge between AI innovation and customer adoption</h3>
+                </div>
+                <div class="md:col-span-2 text-slate-300 space-y-6 font-light text-sm md:text-base leading-relaxed">
+                    <p>
+                        Over the past <strong class="text-white font-medium">13 years</strong>, I've engineered my career across technical, product, and go-to-market functions. Today, I lead AI product marketing at <strong class="text-white font-medium">Box</strong>, shaping how complex enterprise AI architectures are uniquely positioned, monetized, and transformed into sustainable business solutions.
+                    </p>
+                    <p>
+                        I focus on translating deep system capabilities into high-impact customer outcomes. My approach sits cleanly at the intersection of structural launch operations, value-driven pricing loops, and executive-level storytelling alongside leadership teams.
+                    </p>
+                    
+                    <div class="pt-4">
+                        <p class="text-[10px] font-bold uppercase tracking-widest text-brand-textMuted mb-4">Core Structural Focus Areas</p>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="px-3 py-1.5 bg-slate-900 rounded text-xs font-medium text-slate-300 border border-slate-800">AI Product Launches</span>
+                            <span class="px-3 py-1.5 bg-slate-900 rounded text-xs font-medium text-slate-300 border border-slate-800">Pricing & Monetization</span>
+                            <span class="px-3 py-1.5 bg-slate-900 rounded text-xs font-medium text-slate-300 border border-slate-800">Executive Storytelling</span>
+                            <span class="px-3 py-1.5 bg-slate-900 rounded text-xs font-medium text-slate-300 border border-slate-800">Customer Education</span>
+                            <span class="px-3 py-1.5 bg-slate-900 rounded text-xs font-medium text-slate-300 border border-slate-800">Organizational Adoption</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- The Strategic Funnel Visual Section -->
+    <section id="funnel-visualization" class="py-24 px-6 bg-slate-950/20">
+        <div class="max-w-5xl mx-auto">
+            <div class="text-center mb-16">
+                <h2 class="font-heading text-xs font-bold tracking-widest text-brand-purple uppercase mb-3">The Director-Level Framework</h2>
+                <h3 class="font-heading text-3xl font-bold text-white mb-4">The PMM Impact Funnel</h3>
+                <p class="text-brand-textMuted text-sm max-w-2xl mx-auto font-light">
+                    Mapping complex enterprise product marketing work directly against foundational target steps that move pipelines from market mindshare down to realized revenue velocity.
+                </p>
+            </div>
+
+            <!-- CSS Native Funnel Visual Integration -->
+            <div class="flex flex-col items-center w-full max-w-3xl mx-auto space-y-3">
+                
+                <!-- Layer 1: Market Creation -->
+                <div class="w-full text-center group">
+                    <div class="funnel-layer bg-gradient-to-r from-cyan-900/60 via-slate-900/90 to-cyan-900/60 p-[1px] shadow-lg">
+                        <div class="funnel-layer-inner bg-slate-900/90 py-6 px-12 md:px-24">
+                            <span class="text-[10px] font-bold tracking-widest text-brand-accent uppercase block mb-1">Stage 01 — Top of Funnel</span>
+                            <h4 class="font-heading text-xl md:text-2xl font-bold text-white tracking-wide">MARKET CREATION</h4>
+                            <p class="text-xs text-slate-400 font-light mt-2 max-w-md mx-auto hidden md:block">Defining corporate narrative structures, driving initial executive thought leadership, and building early educational market equity.</p>
+                            <a href="#market-creation" class="inline-block mt-3 text-[10px] text-brand-accent tracking-wider uppercase font-bold hover:underline">Jump to Segment Work <i class="fa-solid fa-arrow-down ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 2: Customer Education -->
+                <div class="w-[90%] text-center group">
+                    <div class="funnel-layer bg-gradient-to-r from-blue-900/50 via-slate-900/90 to-blue-900/50 p-[1px] shadow-lg">
+                        <div class="funnel-layer-inner bg-slate-900/90 py-6 px-12 md:px-20">
+                            <span class="text-[10px] font-bold tracking-widest text-slate-400 uppercase block mb-1">Stage 02 — Knowledge Alignment</span>
+                            <h4 class="font-heading text-lg md:text-xl font-bold text-white tracking-wide">CUSTOMER EDUCATION</h4>
+                            <p class="text-xs text-slate-400 font-light mt-2 max-w-md mx-auto hidden md:block">Translating technical complexities (RAG architectures, data governance) into systematic learning foundations for sales and buyers.</p>
+                            <a href="#customer-education" class="inline-block mt-3 text-[10px] text-slate-300 tracking-wider uppercase font-bold hover:underline">Jump to Segment Work <i class="fa-solid fa-arrow-down ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 3: Product Adoption -->
+                <div class="w-[80%] text-center group">
+                    <div class="funnel-layer bg-gradient-to-r from-purple-900/50 via-slate-900/90 to-purple-900/50 p-[1px] shadow-lg">
+                        <div class="funnel-layer-inner bg-slate-900/90 py-6 px-12 md:px-16">
+                            <span class="text-[10px] font-bold tracking-widest text-brand-purple uppercase block mb-1">Stage 03 — Core Conversion</span>
+                            <h4 class="font-heading text-base md:text-lg font-bold text-white tracking-wide">PRODUCT ADOPTION</h4>
+                            <p class="text-xs text-slate-400 font-light mt-2 max-w-sm mx-auto hidden md:block">Converting feature footprints into active product engagements via programmatic workshops, launches, and applied tooling models.</p>
+                            <a href="#customer-education" class="inline-block mt-3 text-[10px] text-brand-purple tracking-wider uppercase font-bold hover:underline">Jump to Segment Work <i class="fa-solid fa-arrow-down ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 4: Revenue Acceleration -->
+                <div class="w-[70%] text-center group">
+                    <div class="funnel-layer bg-gradient-to-r from-pink-900/50 via-slate-900/90 to-pink-900/50 p-[1px] shadow-lg">
+                        <div class="funnel-layer-inner bg-slate-900/90 py-6 px-12 md:px-12">
+                            <span class="text-[10px] font-bold tracking-widest text-pink-400 uppercase block mb-1">Stage 04 — Monetization Loop</span>
+                            <h4 class="font-heading text-sm md:text-base font-bold text-white tracking-wide">REVENUE ACCELERATION</h4>
+                            <p class="text-xs text-slate-400 font-light mt-2 max-w-xs mx-auto hidden md:block">Structuring consumption pricing designs, launching pricing tiers, and driving direct cross-functional revenue scaling paths.</p>
+                            <a href="#revenue-acceleration" class="inline-block mt-3 text-[10px] text-pink-400 tracking-wider uppercase font-bold hover:underline">Jump to Segment Work <i class="fa-solid fa-arrow-down ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CASE STUDIES MAIN CONTENT -->
+    <section id="case-studies" class="py-12">
+        
+        <!-- SECTION: MARKET CREATION -->
+        <div id="market-creation" class="py-16 border-t border-slate-900 px-6">
+            <div class="max-w-5xl mx-auto">
+                <div class="flex items-center gap-3 mb-12">
+                    <span class="h-px w-8 bg-brand-accent"></span>
+                    <h3 class="font-heading text-xs font-bold text-brand-accent tracking-widest uppercase">01 / TOP OF FUNNEL: MARKET CREATION</h3>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-8">
+                    <!-- Case 1 -->
+                    <div class="p-8 rounded-xl bg-slate-900/40 border border-slate-800/80 flex flex-col justify-between">
+                        <div>
+                            <span class="text-[9px] font-bold tracking-widest uppercase text-brand-accent block mb-2">Flagship Content Strategy</span>
+                            <h4 class="font-heading text-2xl font-bold text-white mb-4">Box AI Explainer Series</h4>
+                            <div class="space-y-4 text-sm font-light text-slate-300">
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Challenge:</strong> Enterprise AI space was generating high noise, leaving customers and field operators challenged to decode structural realities like RAG, agents, metadata layers, and enterprise governance controls.</p>
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Approach & Action:</strong> Architected a high-value educational content framework alongside Box CTO Ben Kus. Directed end-to-end strategy, position mapping, scripting, promotion workflows, and comprehensive field enablement resources.</p>
+                            </div>
+                        </div>
+                        <div class="border-t border-slate-800 pt-6 mt-6">
+                            <div class="text-brand-accent font-heading font-extrabold text-2xl mb-1">500K+ Organic Views</div>
+                            <p class="text-xs text-brand-textMuted">Solidified internal baseline fluency and generated foundational external audience trust metrics.</p>
+                            <div class="text-xs italic text-slate-400 mt-4 border-l border-brand-accent pl-3">
+                                "The biggest barrier to AI adoption is rarely technology. It's understanding."
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Case 2 -->
+                    <div class="p-8 rounded-xl bg-slate-900/40 border border-slate-800/80 flex flex-col justify-between">
+                        <div>
+                            <span class="text-[9px] font-bold tracking-widest uppercase text-brand-accent block mb-2">Thought Leadership</span>
+                            <h4 class="font-heading text-2xl font-bold text-white mb-4">AI Narrative Positioning</h4>
+                            <div class="space-y-4 text-sm font-light text-slate-300">
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Challenge:</strong> Commodity market overcrowding, with competitor vendors anchoring messaging solely to base model size instead of tangible business outcomes.</p>
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Approach & Action:</strong> Shifted messaging around content intelligence, workflow transformation, and enterprise information governance. Anchored strategic corporate narrative briefings for industry analyst and leadership circles.</p>
+                            </div>
+                        </div>
+                        <div class="border-t border-slate-800 pt-6 mt-6">
+                            <div class="text-brand-accent font-heading font-extrabold text-2xl mb-1">Global Share of Voice Expansion</div>
+                            <p class="text-xs text-brand-textMuted">Successfully published contributed thought leadership placements inside TechRadar Pro, MarTech Series, IT-Daily, and Versicherungsbote.</p>
+                            <div class="text-xs italic text-slate-400 mt-4 border-l border-brand-accent pl-3">
+                                "Winning narratives focus on customer outcomes, not technical capabilities."
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION: CUSTOMER EDUCATION & PRODUCT ADOPTION -->
+        <div id="customer-education" class="py-16 bg-slate-950/40 border-y border-slate-900 px-6">
+            <div class="max-w-5xl mx-auto">
+                <div class="flex items-center gap-3 mb-12">
+                    <span class="h-px w-8 bg-white"></span>
+                    <h3 class="font-heading text-xs font-bold text-white tracking-widest uppercase">02 & 03 / MID-FUNNEL: CUSTOMER EDUCATION & PRODUCT ADOPTION</h3>
+                </div>
+
+                <div class="grid md:grid-cols-3 gap-6">
+                    <!-- Initiative 1 -->
+                    <div class="p-6 rounded-xl bg-slate-900/60 border border-slate-800 flex flex-col justify-between">
+                        <div>
+                            <h4 class="font-heading text-lg font-bold text-white mb-2">AI Certification Program</h4>
+                            <p class="text-xs text-brand-textMuted font-light mb-4">
+                                Created and scaled an all-inclusive corporate learning program for internal employees and global clients treated with the rigor of an engineering launch.
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-white font-bold text-xl mb-1">~90% Participation</div>
+                            <p class="text-[11px] text-slate-400 font-light">Established systemic internal fluency and client-facing messaging uniformity.</p>
+                            <p class="text-[11px] text-brand-accent font-medium italic mt-3">"Adoption scales when education becomes part of the culture."</p>
+                        </div>
+                    </div>
+
+                    <!-- Initiative 2 -->
+                    <div class="p-6 rounded-xl bg-slate-900/60 border border-slate-800 flex flex-col justify-between">
+                        <div>
+                            <h4 class="font-heading text-lg font-bold text-white mb-2">AI in Action Series</h4>
+                            <p class="text-xs text-brand-textMuted font-light mb-4">
+                                Developed a clear outcome-centric content framework alongside Solutions Engineering to break abstract features into tangible, real-world business scenarios.
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-white font-bold text-xl mb-1">Strategic Validation</div>
+                            <p class="text-[11px] text-slate-400 font-light">Adopted globally by sales teams; recognized directly by ecosystem partners like Anthropic.</p>
+                            <p class="text-[11px] text-brand-accent font-medium italic mt-3">"Customers buy outcomes, not features."</p>
+                        </div>
+                    </div>
+
+                    <!-- Initiative 3 -->
+                    <div class="p-6 rounded-xl bg-slate-900/60 border border-slate-800 flex flex-col justify-between">
+                        <div>
+                            <h4 class="font-heading text-lg font-bold text-white mb-2">Agent Build Workshops</h4>
+                            <p class="text-xs text-brand-textMuted font-light mb-4">
+                                Launched intimate, hands-on architectural design sandboxes focusing customer stakeholders directly on practical implementation via Box AI Studio.
+                            </p>
+                        </div>
+                        <div>
+                            <div class="text-white font-bold text-xl mb-1">High-Intent Retention</div>
+                            <p class="text-[11px] text-slate-400 font-light">Drove immediate customer confidence and playbook clarity for complex agentic workflows.</p>
+                            <p class="text-[11px] text-brand-accent font-medium italic mt-3">"The fastest path to adoption is participation."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION: REVENUE ACCELERATION -->
+        <div id="revenue-acceleration" class="py-16 border-b border-slate-900 px-6">
+            <div class="max-w-5xl mx-auto">
+                <div class="flex items-center gap-3 mb-12">
+                    <span class="h-px w-8 bg-brand-purple"></span>
+                    <h3 class="font-heading text-xs font-bold text-brand-purple tracking-widest uppercase">04 / BOTTOM OF FUNNEL: REVENUE ACCELERATION</h3>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-8">
+                    <!-- Revenue Case 1 -->
+                    <div class="p-8 rounded-xl bg-slate-900/40 border border-slate-800/80 flex flex-col justify-between">
+                        <div>
+                            <span class="text-[9px] font-bold tracking-widest uppercase text-brand-purple block mb-2">Product Operations</span>
+                            <h4 class="font-heading text-2xl font-bold text-white mb-4">Box AI Core Portfolio Launches</h4>
+                            <div class="space-y-4 text-sm font-light text-slate-300">
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Challenge:</strong> Simultaneously driving multi-tiered AI releases to market without generating narrative fragmentation or operational cross-currents.</p>
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Approach & Action:</strong> Implemented a singular, unified positioning fabric mapping across multiple systemic product nodes, including Box AI Agents, AI Studio, Box Agent, AI Extract Agents, and the AI Trust Center.</p>
+                            </div>
+                        </div>
+                        <div class="border-t border-slate-800 pt-6 mt-6">
+                            <div class="text-brand-purple font-heading font-extrabold text-2xl mb-1">Unified Global Footprint</div>
+                            <p class="text-xs text-brand-textMuted">Achieved broad pipeline positioning continuity and deep, structured cross-functional alignment.</p>
+                            <div class="text-xs italic text-slate-400 mt-4 border-l border-brand-purple pl-3">
+                                "Launches succeed when positioning, enablement, and adoption are treated as one system."
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Revenue Case 2 -->
+                    <div class="p-8 rounded-xl bg-slate-900/40 border border-slate-800/80 flex flex-col justify-between">
+                        <div>
+                            <span class="text-[9px] font-bold tracking-widest uppercase text-brand-purple block mb-2">Monetization Engineering</span>
+                            <h4 class="font-heading text-2xl font-bold text-white mb-4">AI Units Consumption Strategy</h4>
+                            <div class="space-y-4 text-sm font-light text-slate-300">
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Challenge:</strong> Legacy per-user seat software paradigms were fundamentally incompatible with the complex, elastic transactional costs of backend generative inference models.</p>
+                                <p><strong class="text-white font-medium block text-xs tracking-wider uppercase mb-1">Approach & Action:</strong> Embedded with Product, Finance, Legal, and Revenue teams to establish the enterprise-wide consumption-based logic matrix and customer enablement paths.</p>
+                            </div>
+                        </div>
+                        <div class="border-t border-slate-800 pt-6 mt-6">
+                            <div class="text-brand-purple font-heading font-extrabold text-2xl mb-1">"Box AI Units" Marketplace Rollout</div>
+                            <p class="text-xs text-brand-textMuted">Delivered predictable, transparent consumption limits for clients while preserving strong underlying business unit margins.</p>
+                            <div class="text-xs italic text-slate-400 mt-4 border-l border-brand-purple pl-3">
+                                "Monetization is ultimately a customer experience problem, not a pricing problem."
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Executive Leadership & Influence Section -->
+    <section id="executive" class="py-24 bg-gradient-to-b from-brand-dark via-slate-950 to-brand-dark px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="font-heading text-xs font-bold tracking-widest text-brand-accent uppercase mb-3">Executive Visibility</h2>
+            <h3 class="font-heading text-3xl font-bold text-white mb-12">Trusted Partner to Product & Executive Leadership</h3>
+            
+            <div class="grid md:grid-cols-2 gap-6 text-left">
+                <div class="p-6 rounded-xl glass-panel flex gap-4 items-start">
+                    <div class="text-brand-accent text-lg mt-1"><i class="fa-solid fa-circle-nodes"></i></div>
+                    <div>
+                        <h4 class="text-white font-semibold text-sm mb-1">C-Suite Alignment Strategy</h4>
+                        <p class="text-xs text-brand-textMuted font-light leading-relaxed">Presented core corporate AI positioning maps and secure RAG deployment systems directly onto executive agendas with CEO Aaron Levie and CTO Ben Kus.</p>
+                    </div>
+                </div>
+                <div class="p-6 rounded-xl glass-panel flex gap-4 items-start">
+                    <div class="text-brand-accent text-lg mt-1"><i class="fa-solid fa-microphone-lines"></i></div>
+                    <div>
+                        <h4 class="text-white font-semibold text-sm mb-1">Keynote Stage Evangelism</h4>
+                        <p class="text-xs text-brand-textMuted font-light leading-relaxed">Formulated and delivered the public flag-bearing AI Studio keynote segment directly from the stage at BoxWorks.</p>
+                    </div>
+                </div>
+                <div class="p-6 rounded-xl glass-panel flex gap-4 items-start">
+                    <div class="text-brand-accent text-lg mt-1"><i class="fa-solid fa-compass"></i></div>
+                    <div>
+                        <h4 class="text-white font-semibold text-sm mb-1">Strategic Roadmap Advising</h4>
+                        <p class="text-xs text-brand-textMuted font-light leading-relaxed">Served as the core inter-operational GTM consultant guiding engineering roadmap releases into crystal clear messaging horizons.</p>
+                    </div>
+                </div>
+                <div class="p-6 rounded-xl glass-panel flex gap-4 items-start">
+                    <div class="text-brand-purple text-lg mt-1"><i class="fa-solid fa-award"></i></div>
+                    <div>
+                        <h4 class="text-white font-semibold text-sm mb-1">"Blow Your Customers' Minds" Award</h4>
+                        <p class="text-xs text-brand-textMuted font-light leading-relaxed">Honored with top-tier corporate performance recognition for directly contributing to **$271K** in Total Account Value (TAV).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Thought Leadership Essays List Section -->
+    <section id="essays" class="py-20 border-t border-slate-900 px-6">
+        <div class="max-w-3xl mx-auto">
+            <div class="text-center mb-16">
+                <h2 class="font-heading text-xs font-bold tracking-widest text-brand-purple uppercase mb-3">Field Notes & Strategies</h2>
+                <h3 class="font-heading text-3xl font-bold text-white">Lessons From Bringing Enterprise AI to Market</h3>
+            </div>
+
+            <div class="space-y-3">
+                <!-- Essay Item -->
+                <div class="p-5 rounded-lg bg-slate-900/30 border border-slate-800/60 hover:bg-slate-900/80 transition-all flex justify-between items-center group cursor-pointer">
+                    <span class="text-slate-200 font-medium text-sm group-hover:text-brand-accent transition-colors">Why Enterprise AI Adoption Is Harder Than Building AI</span>
+                    <i class="fa-solid fa-arrow-right text-xs text-slate-600 group-hover:transform group-hover:translate-x-1 group-hover:text-brand-accent transition-all"></i>
+                </div>
+                <!-- Essay Item -->
+                <div class="p-5 rounded-lg bg-slate-900/30 border border-slate-800/60 hover:bg-slate-900/80 transition-all flex justify-between items-center group cursor-pointer">
+                    <span class="text-slate-200 font-medium text-sm group-hover:text-brand-accent transition-colors">What Most Companies Get Wrong About AI Agents</span>
+                    <i class="fa-solid fa-arrow-right text-xs text-slate-600 group-hover:transform group-hover:translate-x-1 group-hover:text-brand-accent transition-all"></i>
+                </div>
+                <!-- Essay Item -->
+                <div class="p-5 rounded-lg bg-slate-900/30 border border-slate-800/60 hover:bg-slate-900/80 transition-all flex justify-between items-center group cursor-pointer">
+                    <span class="text-slate-200 font-medium text-sm group-hover:text-brand-accent transition-colors">Why AI Pricing Is Really Change Management</span>
+                    <i class="fa-solid fa-arrow-right text-xs text-slate-600 group-hover:transform group-hover:translate-x-1 group-hover:text-brand-accent transition-all"></i>
+                </div>
+                <!-- Essay Item -->
+                <div class="p-5 rounded-lg bg-slate-900/30 border border-slate-800/60 hover:bg-slate-900/80 transition-all flex justify-between items-center group cursor-pointer">
+                    <span class="text-slate-200 font-medium text-sm group-hover:text-brand-accent transition-colors">Enterprise Trust Is a GTM Strategy</span>
+                    <i class="fa-solid fa-arrow-right text-xs text-slate-600 group-hover:transform group-hover:translate-x-1 group-hover:text-brand-accent transition-all"></i>
+                </div>
+                <!-- Essay Item -->
+                <div class="p-5 rounded-lg bg-slate-900/30 border border-slate-800/60 hover:bg-slate-900/80 transition-all flex justify-between items-center group cursor-pointer">
+                    <span class="text-slate-200 font-medium text-sm group-hover:text-brand-accent transition-colors">The Future of Intelligent Content</span>
+                    <i class="fa-solid fa-arrow-right text-xs text-slate-600 group-hover:transform group-hover:translate-x-1 group-hover:text-brand-accent transition-all"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Area -->
+    <footer class="py-12 border-t border-slate-900 text-center text-[11px] text-brand-textMuted tracking-wider uppercase">
+        <div class="max-w-5xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <p>&copy; 2026 Meena Ganesh. All rights reserved.</p>
+            <p class="font-light">AI Product Marketing Portfolio • San Francisco Bay Area</p>
+        </div>
+    </footer>
+
+</body>
+</html>

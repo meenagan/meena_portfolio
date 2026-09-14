@@ -1,0 +1,44 @@
+Section: Thought Leadership & Industry Publications
+
+Sub-header:
+Driving industry conversations on AI agents, enterprise AI adoption, content intelligence, and the future of work through invited interviews and contributed thought leadership featured in leading technology and business publications.
+
+Card 1 — MarTech Series
+
+AI Agents, Content Intelligence & the Future of Enterprise Marketing
+
+Invited as an industry thought leader, I share perspectives on how AI agents are transforming enterprise content workflows, the importance of secure AI adoption, and why intelligent content platforms are becoming foundational to business productivity.
+
+Format: Executive interview and thought leadership feature
+
+Card 2 — TechRadar
+
+AI Agents Enter the Workforce
+
+In this contributed article, I explore the evolution of AI from assistant to autonomous agent, examining how agentic AI is reshaping knowledge work and enabling organizations to unlock new levels of productivity and innovation.
+
+Format: Contributed thought leadership article
+
+Card 3 — IT Daily (Germany)
+
+How AI Agents Will Revolutionize Workplace Routines
+
+A perspective on the shift from task automation to agent-driven workflows, and how enterprises can leverage AI agents to reduce operational friction while empowering employees to focus on higher-value work.
+
+Format: Contributed thought leadership article
+
+Card 4 — Versicherungsbote (Germany)
+
+The Role of AI Agents in Insurance Operations
+
+An exploration of how AI agents can transform insurance processes through automation, intelligent decision support, and governance-driven AI adoption in highly regulated industries.
+
+Format: Contributed thought leadership article
+
+Card 5 — InformatiqueNews (France)
+
+The Next Revolution of Work Has Already Begun
+
+This article examines how AI agents are moving beyond experimentation into real business applications, fundamentally changing how organizations scale expertise, automate workflows, and augment human decision-making.
+
+Format: Contributed thought leadership article

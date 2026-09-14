@@ -1,0 +1,57 @@
+AI in Action Series (Customer Demos & Content Engine)
+
+Sub-header
+Built and scaled a consistent AI demo and content engine showcasing real-world Box AI use cases, enabling Product and Marketing teams to communicate AI value through practical, repeatable storytelling.
+
+Challenge
+
+AI demos were inconsistent and slow to produce, limiting the ability to rapidly showcase new capabilities in a fast-moving AI landscape.
+
+Approach
+
+Created a structured demo framework and repeatable content system to accelerate production and improve consistency across use cases.
+
+Actions
+Defined AI in Action demo structure and narrative format
+Partnered with Product teams to identify key use cases
+Standardized demo storytelling across verticals
+Enabled multiple contributors beyond core PMM team
+Operationalized demo publishing cadence
+Results
+Increased velocity of AI demo content creation
+Improved consistency of product storytelling
+Enabled broader cross-functional contribution
+Strengthened AI narrative across customer touchpoints
+Supported faster go-to-market cycles for new features
+Key Learning
+
+Product storytelling scales best when it is systematized—consistent structure enables speed without sacrificing narrative clarity or technical accuracy.
+
+5. AI Certification & Customer Education Programs
+
+Sub-header
+Developed structured AI education programs to help customers and internal teams understand and apply Box AI capabilities across real-world workflows.
+
+Challenge
+
+Customers needed structured guidance to move from AI awareness to practical usage across daily workflows.
+
+Approach
+
+Designed scalable education formats that combined structured learning with applied AI use cases.
+
+Actions
+Built AI certification and enablement content
+Developed “AI in Action” learning modules
+Created hands-on workshop formats
+Aligned content with real customer workflows
+Partnered with Sales and CS for adoption enablement
+Results
+Improved customer understanding of Box AI capabilities
+Increased adoption readiness among administrators
+Strengthened enablement across field teams
+Created repeatable education motion for AI adoption
+Supported onboarding and activation journeys
+Key Learning
+
+AI education is most effective when it is tied directly to workflows—customers engage more deeply when learning is immediately applicable.

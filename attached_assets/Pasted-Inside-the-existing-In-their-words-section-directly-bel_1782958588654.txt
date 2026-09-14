@@ -1,0 +1,22 @@
+Inside the existing "In their words" section, directly below the three Box award nomination cards, add a new subsection. Do not rebuild or restyle anything already there — only add below.
+Subsection label in small all-caps muted Inter, centered, matching the style of the label above the Box cards:
+LINKEDIN RECOMMENDATIONS — SALESFORCE
+Below that, four cards in a 2x2 grid, stacking to a single column on mobile. Match the exact card style used for the three Box cards above — same background, shadow, border, padding, and border-radius.
+Each card: full quote in Inter regular, then the person's name as a hyperlink in the site's accent color opening in a new tab, then title in smaller muted Inter below the name. Use placeholder hrefs for LinkedIn URLs — I will fill these in manually after.
+Card 1:
+"Meena and I worked together on multiple marketing events at Salesforce and the results were nothing short of exceptional. Her creative prowess and diligence come together to deliver outstanding demonstrations and stories — while allowing fun and creativity in the process, making it easier to connect with the audience through storytelling. She breaks down complex topics into easily digestible and relatable concepts. She is the perfect balance of fun, creative, professional, and dependable."
+Name link: Thomas Jenket
+Title: Principal Solution Consultant, Salesforce Industries
+Card 2:
+"I had the pleasure of working closely with Meena as we partnered on developing marketing messaging, programs, and go-to-market events for the Communications sector. I was consistently impressed with her ability to articulate complex concepts, connect with stakeholders, and demonstrate a tremendous 'can do' attitude when faced with competing priorities and demanding stakeholders."
+Name link: Brad Pruner
+Title: Senior Director, Product Strategy, Salesforce Industries
+Card 3:
+"Meena has a passionate enthusiasm which engages and inspires everyone she meets. She leverages her technical acumen to understand the technology and then translates that understanding into the right message for her audience. She is an excellent presenter — always ready to grab the mic, get on stage, and tell our story. She initiated new methods to engage customers, partners, and sales teams — generating significant increases in leads and pipeline with excellent ROI, including an innovative customer webinar that generated significant new opportunities for zero spend."
+Name link: Jonathan Phillips
+Title: Industry & Product Marketing Leader, Salesforce — direct manager
+Card 4:
+"Meena is not only fun to work with but a great asset to any team. She shines when she is on stage. Her ability to translate complex technical features into user-friendly marketing materials is impressive. I saw how effectively she managed to work with different teams across different timezones."
+Name link: Jasmina Misljencevic
+Title: Director, Industry Advisor — Telecom, Media & Technology, Salesforce
+No animations. Fully responsive. Maintain consistent vertical rhythm with everything above it in the section.

@@ -1,0 +1,26 @@
+Case Study Title
+Secure RAG: Turning AI Trust into Adoption
+
+Subheader
+Created Box AI's foundational Secure RAG architecture narrative and technical explainer, helping customers understand how enterprise AI could be deployed securely, accelerating sales conversations, AI activation, and customer confidence.
+
+Challenge
+
+As enterprise interest in AI accelerated, customers increasingly wanted to understand exactly how Box AI worked. Security leaders, architects, and administrators needed a clear explanation of how enterprise data remained protected within AI workflows, but a lack of simple, customer-facing technical guidance was creating friction in sales cycles, AI activation, and ongoing adoption.
+
+Approach
+
+Partnered with Product leadership and the lead Box AI architect to translate complex technical architecture into a customer-friendly narrative centered on Secure RAG. The goal was to build trust by making Box's AI architecture transparent, understandable, and differentiated from competing approaches.
+
+Actions
+Defined and developed the Secure RAG positioning and core customer narrative.
+Authored the end-to-end whitepaper and technical explainer.
+Designed the architecture flow and worked with Brand to transform it into a polished customer-facing asset.
+Aligned Product, Engineering, Architecture, Sales, and Executive stakeholders around a unified AI trust story.
+Enabled field teams to confidently address security, governance, and architecture questions during enterprise AI evaluations.
+Results
+Delivered one of the most requested AI sales and customer education assets.
+Reduced friction in enterprise AI discussions by helping security, IT, and executive stakeholders understand how Box AI protects customer data.
+Supported AI activation and adoption efforts by increasing administrator confidence in enabling Box AI.
+Strengthened Box's differentiation in enterprise AI through a clear and defensible Secure RAG narrative.
+Received recognition from executive leadership, including Box's COO, for driving the initiative from concept through execution.

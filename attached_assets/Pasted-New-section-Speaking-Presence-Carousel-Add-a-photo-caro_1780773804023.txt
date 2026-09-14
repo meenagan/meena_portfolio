@@ -1,0 +1,38 @@
+New section: Speaking & Presence Carousel
+Add a photo carousel section directly after the hero/intro section and before the case studies section.
+Content: I will provide the image files. Use only the images I upload — do not use placeholders or stock images. Each image should have a short caption directly beneath it (I'll provide the caption text for each photo in my upload or a separate note).
+Design requirements:
+
+Clean, minimal carousel — auto-advances slowly (4–5 second intervals) but also has manual left/right arrow controls and dot indicators so users can navigate themselves
+Each slide: full-width image with a short caption below it (1 line, centered, slightly muted color — not bold)
+No heavy borders, drop shadows, or busy styling — let the photos speak
+Section should have a small label above the carousel, something like "Beyond the Deck" or "In the Room" (suggest a few options and let me pick)
+On mobile, the carousel should be touch-swipeable
+
+Mobile optimization — apply these rules across the entire page:
+
+Every section should be tested at 390px width (iPhone 14 viewport) — nothing should overflow horizontally
+Case study cards should stack vertically on mobile, one per row, full width
+The carousel should be full-width on mobile with large tap targets on the arrows (minimum 44x44px)
+Font sizes should scale down gracefully — no text should require horizontal scrolling to read
+All buttons and CTAs should be at least 44px tall for thumb tapping
+Reduce horizontal padding on mobile — sections that have generous desktop padding should tighten to 16px on mobile
+The nav/header should collapse into a hamburger menu on mobile if it doesn't already
+Test that no images overflow their containers on small screens — add max-width: 100% to all images if not already set
+
+Apply the mobile rules globally across the whole page, not just the new carousel section.
+Here's the images and what caption it maps to:
+--Pull a thumbnail from this video: https://youtu.be/mPksKrnaHzk?si=NT5PFLG_KUy1KZ3Z, with the caption "Box AI Explainer Series"
+--BoxWorks_AI_Studio_Demo.jpg → "Keynote demo at BoxWorks 2024"
+--The thumbnail from "Agentic RAG-a-thon" card → "Panelist at Agentic RAG-a-thon — “From Idea to Impact: Making Agentic AI Market-Ready"
+--Pull thumbnail from this video: https://www.linkedin.com/posts/box_take-a-deep-dive-into-box-ai-studio-now-ugcPost-7285326312339124225-NGZC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUj26IBDUFiF--iAnIxlWyy1guEpjuPims, with the caption: ""3 things to nail before you ship your AI agent"
+--AI Trends Webinar Collage.jpg → "Behind the scenes — AI Trends Webinar recording"
+--Pull thumbnail from this video (https://www.linkedin.com/posts/box_msbuild-ugcPost-7330338903343669248-OPg5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUj26IBDUFiF--iAnIxlWyy1guEpjuPims), with the caption "Live demo of Box AI agent in Microsoft Copilot"
+--this file "Fundwell_BTS.jpg" with the caption "On camera: customer interview on AI-powered data extraction"
+Also for the case studies cards in the home page, you totally lost the wonderful crateive visual elements like the colorful icons and sections like "Challenge", "Action", "Results", "Key Learnings" - bring that back into each card. So basically each card's strucutre is:
+Eyebrow - no change, kepp the same
+Title - No change keep the same
+Summary paragraph split into 2: 1st sentence should be the "Challenge", 2nd sentence should be the "Action" as a separate line with its own icon.
+Then "Results" right above the bullet points.
+And the very last sentence (before final CTA) should have "Key Takeaways" before it.
+Show me example of 1 card with the above changes before you make the changes to all of them so I can approve or tweak.

@@ -1,0 +1,145 @@
+TOP OF FUNNEL
+Market Creation
+Box AI Explainer Series
+Challenge
+Enterprise AI was generating significant excitement, but customers, field teams, and even internal stakeholders struggled to understand concepts such as RAG, AI agents, metadata, governance, and enterprise readiness.
+
+Approach
+Partner with CTO Ben Kus to build an educational content engine that simplified complex AI topics while reinforcing Box's enterprise AI narrative.
+
+Action
+Created and hosted the Box AI Explainer Series, developing content strategy, episode topics, positioning, scripts, promotion plans, and field enablement resources.
+
+Results
+Generated 500K+ views
+
+Became a core customer and field education resource
+
+Increased executive visibility for Box's AI strategy
+
+Key Learning
+The biggest barrier to AI adoption is rarely technology. It's understanding.
+
+AI Narrative & Thought Leadership
+Challenge
+The AI market was becoming increasingly crowded, with vendors competing on models and features rather than customer outcomes.
+
+Approach
+Position Box around enterprise trust, content intelligence, governance, and workflow transformation.
+
+Action
+Developed executive messaging, customer narratives, webinar programs, analyst briefings, and contributed thought leadership to TechRadar Pro, MarTech Series, IT-Daily, and Versicherungsbote.
+
+Results
+Expanded Box's AI market presence
+
+Established executive thought leadership
+
+Increased engagement across customers and industry audiences
+
+Key Learning
+Winning narratives focus on customer outcomes, not technical capabilities.
+
+MIDDLE OF FUNNEL
+Customer Education & Adoption
+AI Certification Program
+Challenge
+Customers and GTM teams needed a consistent understanding of AI capabilities, positioning, and customer value.
+
+Approach
+Treat AI enablement as a product launch, not a training initiative.
+
+Action
+Designed and launched Box's AI Certification Program for employees and customers, including curriculum, assessments, and enablement materials.
+
+Results
+~90% employee participation
+
+Company-wide AI fluency
+
+Improved customer-facing consistency
+
+Key Learning
+Adoption scales when education becomes part of the culture.
+
+AI in Action
+Challenge
+Customers needed practical examples of enterprise AI solving real business problems.
+
+Approach
+Move beyond feature demonstrations and focus on business outcomes.
+
+Action
+Created the AI in Action series in partnership with Solutions Engineering to showcase real-world enterprise use cases.
+
+Results
+Increased customer engagement
+
+Strong internal adoption by sales teams
+
+Recognition from AI ecosystem partners including Anthropic
+
+Key Learning
+Customers buy outcomes, not features.
+
+Build Your Own Agent Workshops
+Challenge
+Customers were curious about AI agents but lacked confidence in how to build and deploy them.
+
+Approach
+Create hands-on learning experiences rather than one-way presentations.
+
+Action
+Launched intimate Build Your Own Agent workshops focused on practical implementation using Box AI Studio.
+
+Results
+High engagement and participation
+
+Strong customer feedback
+
+Increased confidence in agentic workflows
+
+Key Learning
+The fastest path to adoption is participation.
+
+BOTTOM OF FUNNEL
+Revenue Acceleration
+Box AI Product Launches
+Challenge
+Launch multiple AI products while maintaining a clear, unified narrative for customers and sellers.
+
+Approach
+Create a consistent positioning framework spanning launches, enablement, and customer communications.
+
+Action
+Led GTM strategy for Box AI Agents, AI Studio, Box Agent, AI Extract Agents, and AI Trust Center.
+
+Results
+Successful global launches
+
+Company-wide enablement adoption
+
+Consistent AI messaging across teams
+
+Key Learning
+Launches succeed when positioning, enablement, and adoption are treated as one system.
+
+AI Units (Monetization Strategy)
+Challenge
+Traditional SaaS pricing models did not align well with AI consumption patterns.
+
+Approach
+Develop a customer-friendly monetization model that balanced flexibility, scalability, and simplicity.
+
+Action
+Partnered with Product, Finance, Legal, and Revenue teams to define pricing strategy, packaging, customer communications, and enablement assets.
+
+Results
+Successful launch of AI Units
+
+Cross-functional alignment across leadership teams
+
+Clear customer-facing consumption framework
+
+Key Learning
+Monetization is ultimately a customer experience problem, not a pricing problem.

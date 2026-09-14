@@ -1,0 +1,12 @@
+PEER-NOMINATED — "BLOW YOUR CUSTOMERS' MINDS" AWARD, BOX
+Below that, three cards in a horizontal row, stacking vertically on mobile. White or very slightly off-white background, soft shadow or subtle border, generous internal padding, consistent border-radius with the rest of the site:
+Card 1:
+"I want to give a big thank you to Meena for her incredible support with a recent enterprise deal that closed at our highest tier. While we had strong use cases across multiple lines of business, the customer's CISO was highly cautious about adopting AI due to security concerns — and his approval was critical. Meena joined two executive briefings with the CISO, navigated his concerns with empathy and expertise, and clearly articulated how we could meet his goals without compromising on security or compliance. He was initially skeptical of sales involvement, but it was clear on both calls that he respected and valued Meena's approach. This deal wouldn't have crossed the line without her."
+Attribution: Account Executive, Box Enterprise
+Card 2:
+"Meena's presentation on AI had a significant impact on the customer, sparking discussions that led to a six-figure expansion opportunity. Customers consistently respond positively to her presentation style and messaging. She has done an outstanding job supporting executive briefings and educating them on AI."
+Attribution: Account Executive, Box Enterprise
+Card 3:
+"Meena participated in multiple executive briefings speaking about Box AI directly to our customers. In two recent interactions, she helped influence six figures in pipeline and closed revenue — sharing customer success stories to build trust, demoing AI Extract Agent capabilities, helping a skeptical CISO understand permissions-aware AI architecture, introducing our MCP server aligned to the customer's RAG and vector DB roadmap, and proactively offering written responses to AI security questions that further built infosec team confidence."
+Attribution: Senior Manager, Product Marketing, Box
+No animations. Fully responsive.

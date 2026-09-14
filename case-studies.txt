@@ -1,0 +1,436 @@
+MEENA GANESH — CASE STUDIES
+============================================================
+
+
+════════════════════════════════════════════════════════════
+SECTION 1: TOP OF FUNNEL — MARKET CREATION
+Defining corporate narrative structures, driving initial executive thought
+leadership, and building early educational market equity.
+════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────
+1. Box AI Explainer Series
+   Flagship Content Strategy
+────────────────────────────────────────────────────────────
+
+Challenge
+Enterprise AI was generating significant excitement, but customers, field
+teams, and even internal stakeholders struggled to understand concepts such
+as RAG, AI agents, metadata, governance, and enterprise readiness.
+
+Approach
+Partner with CTO Ben Kus to build an educational content engine that
+simplified complex AI topics while reinforcing Box's enterprise AI narrative.
+
+Action
+Created and hosted the Box AI Explainer Series, developing content strategy,
+episode topics, positioning, scripts, promotion plans, and field enablement
+resources.
+
+Results
+- Generated 500K+ views
+- Became a core customer and field education resource
+- Increased executive visibility for Box's AI strategy
+
+Key Learning
+Sometimes the biggest barrier to AI adoption is not the technology, rather
+its understanding.
+
+Link: https://youtube.com/playlist?list=PLCSEWOlbcUyIFeYvgD_1i4-qtaDF8BPix&si=J5MfhvczkhgIhme3
+
+
+────────────────────────────────────────────────────────────
+2. AI Narrative & Thought Leadership
+   Market Positioning
+────────────────────────────────────────────────────────────
+
+Challenge
+The AI market was becoming increasingly crowded, with vendors competing on
+models and features rather than customer outcomes.
+
+Approach
+Position Box around enterprise trust, content intelligence, governance, and
+workflow transformation.
+
+Action
+Developed executive messaging, customer narratives, webinar programs, analyst
+briefings, and contributed thought leadership to TechRadar Pro, MarTech
+Series, IT-Daily, and Versicherungsbote.
+
+Results
+- Expanded Box's AI market presence
+- Established executive thought leadership
+- Increased engagement across customers and industry audiences
+
+Key Learning
+Winning narratives focus on customer outcomes, not technical capabilities.
+
+
+════════════════════════════════════════════════════════════
+SECTION 2: MIDDLE OF FUNNEL — CUSTOMER EDUCATION & ADOPTION
+Translating technical complexity into systematic learning and hands-on
+engagement for sales teams and buyers.
+════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────
+3. AI Certification Program
+────────────────────────────────────────────────────────────
+
+Subtitle
+Created Box's foundational AI certification program to build company-wide AI
+fluency, enabling employees to confidently understand, position, and apply
+Box AI across customer conversations and day-to-day work.
+
+Challenge
+As AI innovation accelerated, teams across the company needed a consistent
+understanding of Box AI capabilities, use cases, and messaging to effectively
+support customers and drive adoption.
+
+Approach
+Designed a scalable certification program that combined foundational AI
+education, product knowledge, and real-world application to create a shared
+baseline of AI expertise.
+
+Actions
+- Developed end-to-end AI certification curriculum and content
+- Created practical learning modules tied to Box AI use cases
+- Built assessments and knowledge validation framework
+- Partnered cross-functionally to align messaging and training objectives
+- Established a repeatable model for AI onboarding and enablement
+
+Results
+- Increased AI fluency across the organization
+- Created a consistent foundation for AI messaging and customer engagement
+- Enabled teams to more confidently position and discuss Box AI
+- Scaled AI education through a structured certification framework
+- Program was adopted as a mandatory company-wide certification
+
+Key Learning
+AI adoption starts with AI fluency. Creating a shared understanding across
+teams enables more consistent customer experiences, stronger messaging, and
+faster organizational adoption.
+
+
+────────────────────────────────────────────────────────────
+4. AI in Action Series
+────────────────────────────────────────────────────────────
+
+Subtitle
+Built and scaled a consistent AI demo and content engine showcasing
+real-world Box AI use cases, enabling Product and Marketing teams to
+communicate AI value through practical, repeatable storytelling.
+
+Challenge
+AI demos were inconsistent and slow to produce, limiting the ability to
+rapidly showcase new capabilities in a fast-moving AI landscape.
+
+Approach
+Created a structured demo framework and repeatable content system to
+accelerate production and improve consistency across use cases.
+
+Actions
+- Defined AI in Action demo structure and narrative format
+- Partnered with Product teams to identify key use cases
+- Standardized demo storytelling across verticals
+- Enabled multiple contributors beyond core PMM team
+- Operationalized demo publishing cadence
+
+Results
+- Increased velocity of AI demo content creation
+- Improved consistency of product storytelling
+- Enabled broader cross-functional contribution
+- Strengthened AI narrative across customer touchpoints
+- Supported faster go-to-market cycles for new features
+
+Key Learning
+Product storytelling scales best when it is systematized—consistent structure
+enables speed without sacrificing narrative clarity or technical accuracy.
+
+Link: https://youtube.com/playlist?list=PLCSEWOlbcUyLFnppTnftEU251AuwphRFi&si=gmmPFepgC17-38xH
+
+
+────────────────────────────────────────────────────────────
+5. Build Your Own Agent Workshops
+────────────────────────────────────────────────────────────
+
+Subtitle
+Designed and facilitated hands-on workshops to help customers move from AI
+curiosity to practical agent implementation using Box AI Studio.
+
+Challenge
+Customers were curious about AI agents but lacked confidence in how to build
+and deploy them.
+
+Approach
+Create hands-on learning experiences rather than one-way presentations.
+
+Action
+Launched intimate Build Your Own Agent workshops focused on practical
+implementation using Box AI Studio.
+
+Results
+- High engagement and participation
+- Strong customer feedback
+- Increased confidence in agentic workflows
+- Enabled practical agent-building skills
+- Strengthened customer readiness for agentic AI
+
+Key Learning
+The fastest path to adoption is participation.
+
+
+────────────────────────────────────────────────────────────
+6. AI Agents Playbook
+   Customer Education & Adoption
+────────────────────────────────────────────────────────────
+
+Challenge
+As interest in AI agents accelerated, many customers were struggling to
+separate hype from practical business value. Questions around what agents
+were, where they fit, and how to implement them consistently came up in
+customer conversations, webinars, and events.
+
+Approach
+Create a practical playbook that helped customers understand AI agents from
+both a strategic and implementation perspective, providing a clear path from
+learning to building and deploying agents in enterprise workflows.
+
+Action
+Developed and authored a two-part AI Agents Playbook covering what agents
+are, common enterprise use cases, implementation with Box AI Studio,
+governance, and long-term adoption.
+
+Results
+- Created a foundational resource for customers exploring AI agents
+- Established a common framework for agentic AI discussions across audiences
+- Extended Box's AI education strategy beyond product launches
+- Supported customer understanding of Box AI Studio and agent-building workflows
+
+Key Learning
+The biggest unlock for AI Agents is helping customers translate capability
+into actionable starting points within their day-to-day work.
+
+Links:
+  Playbook Part I: https://blog.box.com/enterprise-ai-agents-playbook-part-i-learning-how-unlock-agentic-potential
+  Playbook Part II: https://blog.box.com/enterprise-ai-agents-playbook-part-ii-designing-maximum-impact-box-ai-studio
+
+
+────────────────────────────────────────────────────────────
+7. Secure RAG: Building Trust in Enterprise AI
+   Customer Education & Adoption
+────────────────────────────────────────────────────────────
+
+Subtitle
+Defined Box AI's Secure RAG positioning and created a customer-facing
+architecture narrative to help security leaders and administrators understand
+how enterprise AI works, accelerating trust, activation, and sales
+conversations.
+
+Challenge
+Enterprise buyers needed clarity on how Box AI handled data, permissions,
+and security, which created friction in sales cycles and slowed AI activation.
+
+Approach
+Partnered with Product and Architecture to translate Box AI's technical
+design into a simple, trust-first narrative centered on Secure RAG.
+
+Actions
+- Defined Secure RAG positioning and messaging framework
+- Authored customer-facing whitepaper and narrative
+- Created architecture flow in partnership with Product and Lead Architect
+- Aligned Sales, Product, and Exec teams on unified AI trust story
+- Enabled field teams with a reusable technical explainer
+
+Results
+- Became a high-demand internal and customer-facing AI asset
+- Reduced friction in security and architecture conversations
+- Increased confidence among admins and enterprise buyers
+- Supported AI activation and enterprise deal progression
+- Recognized by executive leadership for driving initiative end-to-end
+
+Key Learning
+AI adoption in the enterprise is fundamentally a trust problem—clear, simple
+architecture storytelling is often as important as the underlying product
+capabilities.
+
+
+════════════════════════════════════════════════════════════
+SECTION 3: PRODUCT ADOPTION — IN-PRODUCT GROWTH
+Embedding AI education directly into the product experience to accelerate
+activation and drive measurable adoption lift.
+════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────
+8. AI Discover Page
+   Admin Console — Product-Led Growth & Adoption
+────────────────────────────────────────────────────────────
+
+Challenge
+With strong market awareness already established, the focus shifted to
+accelerating adoption. Administrators needed a clearer in-product path to
+discover Box AI's capabilities, understand its value, and activate it with
+confidence.
+
+Approach
+Partner with Product and Design to create an in-product destination that
+connected AI education directly to activation — bringing AI learning into
+the Admin Console where decision makers already worked, rather than treating
+content and enablement as separate from the product experience.
+
+Actions
+- Defining the messaging hierarchy
+- Designing the educational journey
+- Integrating AI Explainer Series content and AI in Action customer stories
+- Advocating for keeping videos embedded in-product
+- Aligning the experience with broader AI education and enablement programs
+- Influencing content strategy and placement based on expected adoption impact
+
+Adoption Impact
+- ~4× higher weekly AI usage
+- ~750 additional enterprises enabled
+
+Activation Impact
+- Activated AI significantly faster
+- Showed stronger long-term adoption
+- Demonstrated 2–5× higher AI engagement across customer segments
+
+Strategic Impact
+Established a scalable in-product channel for AI education, customer
+adoption, and content distribution.
+
+Key Learning
+The highest-performing adoption experiences happen when learning is embedded
+directly into the workflow.
+
+
+────────────────────────────────────────────────────────────
+9. AI in Action: Scaling Demo Creation with AI Agents
+   Product-Led Growth & Adoption
+────────────────────────────────────────────────────────────
+
+Subtitle
+Built and operationalized an AI Agent–driven system using Box AI Studio and
+Slack workflows to transform AI demo creation from a manual PMM process into
+a scalable, self-serve model across Product and Marketing teams.
+
+Challenge
+AI demo creation was a manual, multi-day process led by a single PMM,
+limiting speed, consistency, and scalability as demand for AI storytelling
+increased.
+
+Approach
+Designed an internal system using a Box AI Agent, Slack workflows, and
+Airtable intake to standardize briefs, streamline requests, and enable
+self-serve demo creation across teams.
+
+Actions
+- Built a Box AI Studio agent to generate structured demo briefs
+- Integrated Slack → Airtable workflow for demo requests
+- Designed guided prompts and follow-up questions to improve input quality
+- Standardized brief format for consistent AI in Action storytelling
+- Enabled PMMs and product teams to independently create demos
+
+Results
+- Reduced demo creation time from days to hours
+- Scaled demo production from single-owner to cross-functional system
+- Improved consistency and quality of AI demo narratives
+- Enabled self-serve contribution from PMMs and product leaders
+- Established a repeatable system for AI storytelling at scale
+
+Key Learning
+AI-driven workflows scale best when they don't just automate execution, but
+actively improve input quality—guiding users toward better briefs creates
+consistency, speed, and downstream content quality at scale.
+
+
+════════════════════════════════════════════════════════════
+SECTION 4: BOTTOM OF FUNNEL — REVENUE ACCELERATION
+Structuring consumption pricing designs, launching pricing tiers, and driving
+cross-functional revenue scaling paths.
+════════════════════════════════════════════════════════════
+
+
+────────────────────────────────────────────────────────────
+10. Box AI Product Launches
+    GTM Strategy & Execution
+────────────────────────────────────────────────────────────
+
+Challenge
+Launch multiple AI products while maintaining a clear, unified narrative for
+customers and sellers.
+
+Approach
+Create a consistent positioning framework spanning launches, enablement, and
+customer communications.
+
+Action
+Led end-to-end GTM strategy for Box's AI portfolio, including Box AI Agents,
+AI Studio, Box Agent, AI Extract Agents, and AI Trust Center—defining
+positioning, messaging, launch strategy, customer education, and enablement
+to drive enterprise adoption of agentic AI.
+
+  - Developed differentiated messaging and narratives for IT, business, and
+    executive audiences.
+  - Partnered with Product, Sales, AR, and Customer Success teams to execute
+    launches across owned, earned, and customer-facing channels.
+  - Created adoption-focused content, demos, webinars, and enablement programs
+    to help customers operationalize AI securely and at scale.
+
+Results
+- Successful global launches
+- Company-wide enablement adoption
+- Consistent AI messaging across teams
+
+Key Learning
+Launches succeed when positioning, enablement, and adoption are treated as
+one system.
+
+Product Links:
+  Box AI Agents: https://www.box.com/agents
+  AI Studio: https://www.box.com/ai/ai-studio
+  AI Extract Agents: https://www.box.com/extract
+  AI Trust Center: https://www.box.com/ai/trust
+
+
+────────────────────────────────────────────────────────────
+11. Box AI Units: Launch & Monetization Strategy
+    Pricing & Packaging
+────────────────────────────────────────────────────────────
+
+Challenge
+Customers struggled to understand how to measure and control AI value,
+especially in enterprise environments where usage didn't map cleanly to
+traditional pricing models.
+
+Approach
+Developed GTM positioning that connected AI usage to meaningful business
+outcomes through a structured consumption model.
+
+Actions
+- Led GTM strategy for Box AI Units launch
+- Defined positioning and messaging across buyer personas
+- Partnered with Product and Sales on pricing narrative
+- Built customer education and enablement materials
+- Supported enterprise deal conversations with usage framing
+
+Results
+- Improved customer understanding of AI value measurement
+- Strengthened enterprise adoption conversations
+- Reduced friction in pricing and packaging discussions
+- Supported expansion into Enterprise Advanced tier opportunities
+- Established clearer link between AI usage and business outcomes
+
+Key Learning
+AI monetization requires translating usage into perceived business value—
+customers adopt faster when pricing reflects how they experience work, not
+just system activity.
+
+Link: https://siliconangle.com/2025/02/19/box-makes-easier-customers-track-ai-spending-adds-new-agentic-ai-capabilities/
+
+
+============================================================
+END OF CASE STUDIES
+============================================================

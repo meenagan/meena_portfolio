@@ -1,0 +1,26 @@
+I want to redesign the Case Studies section for recruiter scanning and mobile usability. I'm providing a .txt file with the condensed content for each case study card — use only the content from that file, do not generate or invent any content yourself.
+The problem with the current design: Every case study shows the full Challenge, Approach, Actions, Results, and Key Learning directly on the homepage. This causes excessive scrolling on mobile and makes it impossible for recruiters to scan quickly.
+The solution: A two-level experience.
+
+LEVEL 1 — Case Study Preview Cards (Homepage)
+Replace the current case study section with compact cards. Each card should contain exactly what's in my .txt file for that case study:
+
+Title
+One-sentence summary/subheader
+3–4 key highlights or outcomes (as a short list)
+Category tag (one of: Market Creation / Customer Education & Adoption / Product Adoption / Revenue Acceleration)
+Optional thumbnail/image if one already exists for that case study
+A CTA button — use the link text from the .txt file, not a generic "Read more"
+
+Card design reference: Model the cards visually after the project cards on https://www.rabiaahmed.me/ — compact, scannable, with the CTA at the bottom. The goal is a recruiter can scan ALL case studies in under 30 seconds without excessive scrolling.
+Do NOT change the visual theme, fonts, or colors of my existing site — only restructure this section.
+
+LEVEL 2 — Full Case Study (Individual Page)
+
+Move all the existing detailed content (Challenge, Approach, Actions, Results, Key Learning) for each case study to its own dedicated page at a route like /case-studies/[project-name]
+The CTA button on each homepage card links to that case study's individual page
+Each individual page should have a "← Back to Portfolio" link at the top
+
+
+Content source: All card content (titles, summaries, highlights, tags, CTA text) comes from the .txt file I'm providing. Read it carefully before writing any code. Do not fill in, paraphrase, or invent anything not in that file.
+Do not modify any other section of the site — hero, about, skills, contact, etc. Only the case studies section changes.

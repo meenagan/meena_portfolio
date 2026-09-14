@@ -1,0 +1,74 @@
+New Funnel Section
+Product Adoption
+AI Discover Page (Admin Console)
+Challenge
+While Box had invested heavily in AI launches, thought leadership, webinars, and educational content, many administrators still lacked a clear path from awareness to activation.
+
+The challenge wasn't awareness.
+
+The challenge was helping admins understand:
+
+What Box AI could do
+Why it mattered
+How to get started
+inside the product experience itself.
+
+Approach
+Partner with Product and Design to create an in-product destination that connected AI education directly to activation.
+
+Rather than treating content and enablement as separate from the product experience, bring AI learning directly into the Admin Console where decision makers already worked.
+
+Action
+Collaborated closely with Product and Design to shape the AI Discover Page through a PMM and adoption lens.
+
+Key contributions included:
+
+Defining the messaging hierarchy
+Designing the educational journey
+Integrating AI Explainer Series content
+Integrating AI in Action customer stories
+Advocating for keeping videos embedded in-product
+Aligning the experience with broader AI education and enablement programs
+Influencing content strategy and placement decisions based on expected adoption impact
+The goal was to create a single in-product destination that helped admins move from curiosity to activation.
+
+Results
+Adoption Impact
+~45% AI enablement rate among Discover Page users vs. ~25% baseline
+~2× higher AI enablement
+~4× higher weekly AI usage
+6.4% incremental lift in AI enablement
+~750 additional enterprises enabled beyond organic growth
+Activation Impact
+Customers exposed to Discover:
+
+Activated AI significantly faster
+Showed stronger long-term adoption
+Demonstrated 2–5× higher AI engagement across customer segments
+Strategic Impact
+Established a scalable in-product channel for AI education, customer adoption, and content distribution.
+
+Key Learning
+One of the biggest lessons from AI GTM is that customers don't separate "education" from "product."
+
+The highest-performing adoption experiences often happen when learning is embedded directly into the workflow rather than delivered through external campaigns.
+
+The AI Discover Page reinforced that in-product education can be one of the most effective growth levers available to product marketers.
+
+Why This Case Study Is Special
+Notice how different this is from your other stories:
+
+Case Study	Primary Signal
+AI Explainer Series	Thought Leadership
+AI Certification	Organizational Change
+AI Units	Monetization
+AI Product Launches	GTM Execution
+AI Discover Page	Product-Led Growth & Adoption
+This fills a gap in your portfolio.
+
+Executive Influence Section
+I'd also add one bullet here:
+
+Product Influence
+Influenced the strategy and design of Box's AI Discover Page within the Admin Console, helping create an in-product adoption experience that drove a 6.4% lift in AI enablement and accelerated customer time-to-value.
+
