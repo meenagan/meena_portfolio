@@ -1023,7 +1023,7 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
-        <WouterRouter base="/meena_portfolio">
+        <WouterRouter base="/meena_portfolio/">
           <Router />
         </WouterRouter>
         <Toaster />
